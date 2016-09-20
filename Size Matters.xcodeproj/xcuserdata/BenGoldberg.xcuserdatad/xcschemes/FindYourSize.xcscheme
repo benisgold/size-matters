@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0800"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B68FE7961D5193230000DC04"
-               BuildableName = "FindYourSize.app"
-               BlueprintName = "FindYourSize"
-               ReferencedContainer = "container:FindYourSize.xcodeproj">
+               BuildableName = "Size Matters.app"
+               BlueprintName = "Size Matters"
+               ReferencedContainer = "container:Size Matters.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B68FE7961D5193230000DC04"
-            BuildableName = "FindYourSize.app"
-            BlueprintName = "FindYourSize"
-            ReferencedContainer = "container:FindYourSize.xcodeproj">
+            BuildableName = "Size Matters.app"
+            BlueprintName = "Size Matters"
+            ReferencedContainer = "container:Size Matters.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B68FE7961D5193230000DC04"
-            BuildableName = "FindYourSize.app"
-            BlueprintName = "FindYourSize"
-            ReferencedContainer = "container:FindYourSize.xcodeproj">
+            BuildableName = "Size Matters.app"
+            BlueprintName = "Size Matters"
+            ReferencedContainer = "container:Size Matters.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B68FE7961D5193230000DC04"
-            BuildableName = "FindYourSize.app"
-            BlueprintName = "FindYourSize"
-            ReferencedContainer = "container:FindYourSize.xcodeproj">
+            BuildableName = "Size Matters.app"
+            BlueprintName = "Size Matters"
+            ReferencedContainer = "container:Size Matters.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

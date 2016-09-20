@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:FindYourSize.xcodeproj">
+      location = "self:/Users/BenGoldberg/Desktop/iOS/FindYourSize/Size Matters.xcodeproj">
    </FileRef>
 </Workspace>

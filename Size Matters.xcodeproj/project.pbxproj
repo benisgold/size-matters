@@ -7,18 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B6071F361D52F5F800F637C0 /* CountryController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6071F351D52F5F800F637C0 /* CountryController.swift */; };
+		B6071F381D5318A200F637C0 /* SegueFromLeft.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6071F371D5318A200F637C0 /* SegueFromLeft.swift */; };
+		B6071F3B1D53A38100F637C0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6071F391D53A38100F637C0 /* Main.storyboard */; };
+		B68F13EF1D56BD4D00C9F9E2 /* WGController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68F13EE1D56BD4D00C9F9E2 /* WGController.swift */; };
+		B68F13F11D56BD6200C9F9E2 /* MController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68F13F01D56BD6200C9F9E2 /* MController.swift */; };
+		B68F13F51D56BD7300C9F9E2 /* BController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68F13F41D56BD7300C9F9E2 /* BController.swift */; };
+		B68F13F71D5809B200C9F9E2 /* ConvertController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68F13F61D5809B200C9F9E2 /* ConvertController.swift */; };
+		B68F13F91D5A735700C9F9E2 /* SuitController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68F13F81D5A735700C9F9E2 /* SuitController.swift */; };
 		B68FE79B1D5193230000DC04 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68FE79A1D5193230000DC04 /* AppDelegate.swift */; };
-		B68FE79D1D5193230000DC04 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68FE79C1D5193230000DC04 /* ViewController.swift */; };
-		B68FE7A01D5193230000DC04 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B68FE79E1D5193230000DC04 /* Main.storyboard */; };
+		B68FE79D1D5193230000DC04 /* PersonController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68FE79C1D5193230000DC04 /* PersonController.swift */; };
 		B68FE7A21D5193230000DC04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B68FE7A11D5193230000DC04 /* Assets.xcassets */; };
 		B68FE7A51D5193230000DC04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B68FE7A31D5193230000DC04 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B68FE7971D5193230000DC04 /* FindYourSize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FindYourSize.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B6071F351D52F5F800F637C0 /* CountryController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountryController.swift; sourceTree = "<group>"; };
+		B6071F371D5318A200F637C0 /* SegueFromLeft.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SegueFromLeft.swift; sourceTree = "<group>"; };
+		B6071F3A1D53A38100F637C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B625D8291D5CE2DD00BEFF48 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
+		B625D82A1D5CE2DD00BEFF48 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		B625D82B1D5CE2E300BEFF48 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Main.strings; sourceTree = "<group>"; };
+		B625D82C1D5CE2E400BEFF48 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		B68F13EE1D56BD4D00C9F9E2 /* WGController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WGController.swift; sourceTree = "<group>"; };
+		B68F13F01D56BD6200C9F9E2 /* MController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MController.swift; sourceTree = "<group>"; };
+		B68F13F41D56BD7300C9F9E2 /* BController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BController.swift; sourceTree = "<group>"; };
+		B68F13F61D5809B200C9F9E2 /* ConvertController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConvertController.swift; sourceTree = "<group>"; };
+		B68F13F81D5A735700C9F9E2 /* SuitController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SuitController.swift; sourceTree = "<group>"; };
+		B68FE7971D5193230000DC04 /* Size Matters.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Size Matters.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B68FE79A1D5193230000DC04 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B68FE79C1D5193230000DC04 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		B68FE79F1D5193230000DC04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B68FE79C1D5193230000DC04 /* PersonController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonController.swift; sourceTree = "<group>"; };
 		B68FE7A11D5193230000DC04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B68FE7A41D5193230000DC04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B68FE7A61D5193230000DC04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -46,7 +64,7 @@
 		B68FE7981D5193230000DC04 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B68FE7971D5193230000DC04 /* FindYourSize.app */,
+				B68FE7971D5193230000DC04 /* Size Matters.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -54,9 +72,16 @@
 		B68FE7991D5193230000DC04 /* FindYourSize */ = {
 			isa = PBXGroup;
 			children = (
+				B6071F371D5318A200F637C0 /* SegueFromLeft.swift */,
 				B68FE79A1D5193230000DC04 /* AppDelegate.swift */,
-				B68FE79C1D5193230000DC04 /* ViewController.swift */,
-				B68FE79E1D5193230000DC04 /* Main.storyboard */,
+				B68FE79C1D5193230000DC04 /* PersonController.swift */,
+				B6071F351D52F5F800F637C0 /* CountryController.swift */,
+				B68F13EE1D56BD4D00C9F9E2 /* WGController.swift */,
+				B68F13F01D56BD6200C9F9E2 /* MController.swift */,
+				B68F13F81D5A735700C9F9E2 /* SuitController.swift */,
+				B68F13F41D56BD7300C9F9E2 /* BController.swift */,
+				B6071F391D53A38100F637C0 /* Main.storyboard */,
+				B68F13F61D5809B200C9F9E2 /* ConvertController.swift */,
 				B68FE7A11D5193230000DC04 /* Assets.xcassets */,
 				B68FE7A31D5193230000DC04 /* LaunchScreen.storyboard */,
 				B68FE7A61D5193230000DC04 /* Info.plist */,
@@ -67,9 +92,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B68FE7961D5193230000DC04 /* FindYourSize */ = {
+		B68FE7961D5193230000DC04 /* Size Matters */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B68FE7A91D5193230000DC04 /* Build configuration list for PBXNativeTarget "FindYourSize" */;
+			buildConfigurationList = B68FE7A91D5193230000DC04 /* Build configuration list for PBXNativeTarget "Size Matters" */;
 			buildPhases = (
 				B68FE7931D5193230000DC04 /* Sources */,
 				B68FE7941D5193230000DC04 /* Frameworks */,
@@ -79,9 +104,9 @@
 			);
 			dependencies = (
 			);
-			name = FindYourSize;
+			name = "Size Matters";
 			productName = FindYourSize;
-			productReference = B68FE7971D5193230000DC04 /* FindYourSize.app */;
+			productReference = B68FE7971D5193230000DC04 /* Size Matters.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -91,15 +116,17 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
-				LastUpgradeCheck = 0730;
+				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = "Ben Goldberg";
 				TargetAttributes = {
 					B68FE7961D5193230000DC04 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = Z43R2GA4A7;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
-			buildConfigurationList = B68FE7921D5193230000DC04 /* Build configuration list for PBXProject "FindYourSize" */;
+			buildConfigurationList = B68FE7921D5193230000DC04 /* Build configuration list for PBXProject "Size Matters" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -112,7 +139,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B68FE7961D5193230000DC04 /* FindYourSize */,
+				B68FE7961D5193230000DC04 /* Size Matters */,
 			);
 		};
 /* End PBXProject section */
@@ -122,9 +149,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6071F3B1D53A38100F637C0 /* Main.storyboard in Resources */,
 				B68FE7A51D5193230000DC04 /* LaunchScreen.storyboard in Resources */,
 				B68FE7A21D5193230000DC04 /* Assets.xcassets in Resources */,
-				B68FE7A01D5193230000DC04 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,18 +162,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B68FE79D1D5193230000DC04 /* ViewController.swift in Sources */,
+				B68FE79D1D5193230000DC04 /* PersonController.swift in Sources */,
+				B68F13F11D56BD6200C9F9E2 /* MController.swift in Sources */,
+				B68F13F51D56BD7300C9F9E2 /* BController.swift in Sources */,
+				B68F13F91D5A735700C9F9E2 /* SuitController.swift in Sources */,
+				B6071F361D52F5F800F637C0 /* CountryController.swift in Sources */,
+				B68F13EF1D56BD4D00C9F9E2 /* WGController.swift in Sources */,
+				B6071F381D5318A200F637C0 /* SegueFromLeft.swift in Sources */,
 				B68FE79B1D5193230000DC04 /* AppDelegate.swift in Sources */,
+				B68F13F71D5809B200C9F9E2 /* ConvertController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		B68FE79E1D5193230000DC04 /* Main.storyboard */ = {
+		B6071F391D53A38100F637C0 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				B68FE79F1D5193230000DC04 /* Base */,
+				B6071F3A1D53A38100F637C0 /* Base */,
+				B625D8291D5CE2DD00BEFF48 /* fr */,
+				B625D82B1D5CE2E300BEFF48 /* it */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -155,6 +191,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				B68FE7A41D5193230000DC04 /* Base */,
+				B625D82A1D5CE2DD00BEFF48 /* fr */,
+				B625D82C1D5CE2E400BEFF48 /* it */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,6 +204,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -176,8 +215,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -212,6 +253,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -222,8 +264,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -242,6 +286,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -251,10 +296,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = FindYourSize/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.bengoldberg.FindYourSize;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Size Matters";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -262,17 +310,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = FindYourSize/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.bengoldberg.FindYourSize;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Size Matters";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B68FE7921D5193230000DC04 /* Build configuration list for PBXProject "FindYourSize" */ = {
+		B68FE7921D5193230000DC04 /* Build configuration list for PBXProject "Size Matters" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B68FE7A71D5193230000DC04 /* Debug */,
@@ -281,13 +332,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B68FE7A91D5193230000DC04 /* Build configuration list for PBXNativeTarget "FindYourSize" */ = {
+		B68FE7A91D5193230000DC04 /* Build configuration list for PBXNativeTarget "Size Matters" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B68FE7AA1D5193230000DC04 /* Debug */,
 				B68FE7AB1D5193230000DC04 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

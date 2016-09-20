@@ -1,0 +1,105 @@
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "5Pk-Zd-IYZ"; */
+"5Pk-Zd-IYZ.normalTitle" = "INDIETRO";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "8du-RS-j4l"; */
+"8du-RS-j4l.normalTitle" = "INDIETRO";
+
+/* Class = "UILabel"; text = "SIZE IN"; ObjectID = "9eI-oB-cWS"; */
+"9eI-oB-cWS.text" = "IN";
+
+/* Class = "UIButton"; normalTitle = "TOPS"; ObjectID = "B4p-W7-xHh"; */
+"B4p-W7-xHh.normalTitle" = "CIME";
+
+/* Class = "UIButton"; normalTitle = "HOME"; ObjectID = "FZM-GA-Jck"; */
+"FZM-GA-Jck.normalTitle" = "HOME";
+
+/* Class = "UIButton"; normalTitle = "PANTS"; ObjectID = "G5Q-lY-Q4b"; */
+"G5Q-lY-Q4b.normalTitle" = "PANTALONI";
+
+/* Class = "UIButton"; normalTitle = "SWIM"; ObjectID = "JWQ-RH-nEW"; */
+"JWQ-RH-nEW.normalTitle" = "COSTUMI";
+
+/* Class = "UIButton"; normalTitle = "U.K."; ObjectID = "MPu-Qa-0wH"; */
+"MPu-Qa-0wH.normalTitle" = "REGNO UNITO";
+
+/* Class = "UILabel"; text = "*clothing*"; ObjectID = "OSY-bh-NHx"; */
+"OSY-bh-NHx.text" = "*clothing*";
+
+/* Class = "UILabel"; text = "YOUR"; ObjectID = "OXJ-OK-jx6"; */
+"OXJ-OK-jx6.text" = "LA TUA TAGLIA DI";
+
+/* Class = "UIButton"; normalTitle = "BOTTOMS"; ObjectID = "OnG-Ta-QnQ"; */
+"OnG-Ta-QnQ.normalTitle" = "FONDELLI";
+
+/* Class = "UIButton"; normalTitle = "TOPS"; ObjectID = "RM9-dw-eYK"; */
+"RM9-dw-eYK.normalTitle" = "CIME";
+
+/* Class = "UIButton"; normalTitle = "SHOES"; ObjectID = "Tfm-Dc-4EQ"; */
+"Tfm-Dc-4EQ.normalTitle" = "SCARPE";
+
+/* Class = "UIButton"; normalTitle = "BOYS"; ObjectID = "UrL-uz-CaI"; */
+"UrL-uz-CaI.normalTitle" = "RAGAZZI";
+
+/* Class = "UIButton"; normalTitle = "TOPS"; ObjectID = "VZ3-29-I8K"; */
+"VZ3-29-I8K.normalTitle" = "CIME";
+
+/* Class = "UIButton"; normalTitle = "SUITING"; ObjectID = "YNh-E0-NTf"; */
+"YNh-E0-NTf.normalTitle" = "COMPLETI";
+
+/* Class = "UIButton"; normalTitle = "WOMEN"; ObjectID = "Ysw-Dy-Qp7"; */
+"Ysw-Dy-Qp7.normalTitle" = "DONNE";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "Zy6-S5-1YN"; */
+"Zy6-S5-1YN.normalTitle" = "INDIETRO";
+
+/* Class = "UIButton"; normalTitle = "MEN"; ObjectID = "aYl-p8-JoL"; */
+"aYl-p8-JoL.normalTitle" = "UOMINI";
+
+/* Class = "UIButton"; normalTitle = "DRESSES"; ObjectID = "bqy-22-7Ks"; */
+"bqy-22-7Ks.normalTitle" = "ABITI";
+
+/* Class = "UITextField"; placeholder = "enter size"; ObjectID = "byp-Pi-aXv"; */
+"byp-Pi-aXv.placeholder" = "inserisci la tua taglia";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "caI-VS-yaX"; */
+"caI-VS-yaX.normalTitle" = "INDIETRO";
+
+/* Class = "UILabel"; text = "IS"; ObjectID = "dyj-m9-LOs"; */
+"dyj-m9-LOs.text" = "È";
+
+/* Class = "UIButton"; normalTitle = "SHOES"; ObjectID = "eQv-bx-p6x"; */
+"eQv-bx-p6x.normalTitle" = "SCARPE";
+
+/* Class = "UIButton"; normalTitle = "BOTTOMS"; ObjectID = "fU2-r2-ouQ"; */
+"fU2-r2-ouQ.normalTitle" = "FONDELLI";
+
+/* Class = "UIButton"; normalTitle = "BOTTOMS"; ObjectID = "iex-oZ-E7h"; */
+"iex-oZ-E7h.normalTitle" = "FONDELLI";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "j4i-Ai-DOm"; */
+"j4i-Ai-DOm.normalTitle" = "INDIETRO";
+
+/* Class = "UILabel"; text = "*country*"; ObjectID = "k9U-L0-rhy"; */
+"k9U-L0-rhy.text" = "*country*";
+
+/* Class = "UIButton"; normalTitle = "JACKET"; ObjectID = "kx3-MR-KP0"; */
+"kx3-MR-KP0.normalTitle" = "GIACCA";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "qr2-50-vac"; */
+"qr2-50-vac.normalTitle" = "INDIETRO";
+
+/* Class = "UIButton"; normalTitle = "ITALY"; ObjectID = "t7s-F7-Xhl"; */
+"t7s-F7-Xhl.normalTitle" = "ITALIA";
+
+/* Class = "UIButton"; normalTitle = "FRANCE"; ObjectID = "teH-Gn-7mq"; */
+"teH-Gn-7mq.normalTitle" = "FRANCIA";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "yOe-sY-pYb"; */
+"yOe-sY-pYb.text" = "...";
+
+/* Class = "UIButton"; normalTitle = "SHOES"; ObjectID = "zat-Vd-qjq"; */
+"zat-Vd-qjq.normalTitle" = "SCARPE";
+
+/* Class = "UIButton"; normalTitle = "GIRLS"; ObjectID = "zuN-nv-Pca"; */
+"zuN-nv-Pca.normalTitle" = "RAGAZZE";
